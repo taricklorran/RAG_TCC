@@ -13,7 +13,7 @@ Este é um projeto de RAG (Retrieval-Augmented Generation) que utiliza um modelo
 ### 1. Clone o Repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/taricklorran/RAG_TCC.git
 cd rag_project
 ```
 
